@@ -1,0 +1,36 @@
+[submodule "Price"]
+	path = Price
+	url = ssh://git@10.96.195.202:31622/diffusion/ANDPRICETWO/and_price_two.git
+[submodule "libs/Lib_ad_broker"]
+	path = libs/Lib_ad_broker
+	url = ssh://git@10.96.195.202:31622/diffusion/LIBADBROKER/lib_ad_broker.git
+[submodule "libs/lib_AutoScrollViewPager"]
+	path = libs/lib_AutoScrollViewPager
+	url = ssh://git@10.96.195.202:31622/diffusion/ASLIBAUTOSCROLLVIEWPAGER/as_lib_autoscrollviewpager.git
+[submodule "libs/lib_EditTextForm"]
+	path = libs/lib_EditTextForm
+	url = ssh://git@10.96.195.202:31622/diffusion/LIBFORMEDITTEXT/as_lib_formedittext.git
+[submodule "libs/lib_FacebookSDK"]
+	path = libs/lib_FacebookSDK
+	url = ssh://git@10.96.195.202:31622/diffusion/ASLIBFACEBOOKSDK/as_lib_facebooksdk.git
+[submodule "libs/lib_ImageLoader"]
+	path = libs/lib_ImageLoader
+	url = ssh://git@10.96.195.202:31622/diffusion/ASLIBIMAGELOADER/as_lib_imageloader.git
+[submodule "libs/lib_Networld_UI"]
+	path = libs/lib_Networld_UI
+	url = ssh://git@10.96.195.202:31622/diffusion/ASLIBNETWORLDUI/as_lib_netowrld_ui.git
+[submodule "libs/lib_Networld_Volley"]
+	path = libs/lib_Networld_Volley
+	url = ssh://git@10.96.195.202:31622/diffusion/ASLIBNETWORLDVOLLEY/as_lib_netowrld_volley.git
+[submodule "libs/lib_PhotoView"]
+	path = libs/lib_PhotoView
+	url = ssh://git@10.96.195.202:31622/diffusion/ASLIBPHOTOVIEW/as_lib_photoview.git
+[submodule "libs/lib_ViewPageIndicator"]
+	path = libs/lib_ViewPageIndicator
+	url = ssh://git@10.96.195.202:31622/diffusion/ASLIBVIEWPAGERINDICATOR/as_lib_viewpager_indicator.git
+[submodule "libs/lib_Volley"]
+	path = libs/lib_Volley
+	url = ssh://git@10.96.195.202:31622/diffusion/ASLIBVOLLEY/as_lib_volley.git
+[submodule "libs/lib_ZXing"]
+	path = libs/lib_ZXing
+	url = ssh://git@10.96.195.202:31622/diffusion/LIBZXING/as_lib_zxing.git
