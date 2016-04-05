@@ -34,3 +34,6 @@
 [submodule "libs/lib_ZXing"]
 	path = libs/lib_ZXing
 	url = ssh://git@10.96.195.202:31622/diffusion/LIBZXING/as_lib_zxing.git
+[submodule "libs/Lib_Autobahn-SW"]
+	path = libs/Lib_Autobahn-SW
+	url = ssh://git@10.96.195.202:31622/diffusion/ASLIBAUTOBAHNSW/as_lib_autobahn_sw.git
