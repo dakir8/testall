@@ -40,3 +40,6 @@
 [submodule "libs/lib_TimeSquareDatePicker"]
 	path = libs/lib_TimeSquareDatePicker
 	url = ssh://git@10.96.195.202:31622/diffusion/ASLIBTIMESQUARECALENDAR/as_lib_timesquare_calendar.git
+[submodule "libs/NWIMInterface"]
+	path = libs/NWIMInterface
+	url = https://github.com/dakir8/nwiminterface.git
